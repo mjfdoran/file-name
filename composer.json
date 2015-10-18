@@ -1,0 +1,12 @@
+{
+    "name": "mattdoran/file-namer",
+    "description": "Saves file with unique name.",
+    "authors": [
+        {
+            "name": "Matt Doran",
+            "email": "mjf.doran@gmail.com"
+        }
+    ],
+    "require": {}
+}
+
