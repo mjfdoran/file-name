@@ -1,12 +1,15 @@
 {
-    "name": "mattdoran/file-namer",
-    "description": "Saves file with unique name.",
+    "name": "mattdoran/file-maker",
+    "description": "Generates unique name for uploaded file.",
+    "type": "php",
+    "require": {
+        "php": "^5.5"
+    },
     "authors": [
         {
             "name": "Matt Doran",
             "email": "mjf.doran@gmail.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev"
 }
-
